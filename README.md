@@ -19,4 +19,4 @@
 
 # Current Demo of the Game
 
-[Link](https://gfycat.com/elatedsnarlingatlanticridleyturtle)
+[Gif of the game](https://gfycat.com/elatedsnarlingatlanticridleyturtle)
