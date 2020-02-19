@@ -20,10 +20,8 @@
 - Tanks will be different colors or have unique characters on top to distinguish between players
 
 ## Current Demo of the Game 2/18/20
-
-[Gif of the game](https://gfycat.com/elatedsnarlingatlanticridleyturtle)
-![](images/tankgame2.gif)
-![](images/tankgame3.gif)
+<img src="images/tankgame2.gif" width="50%" style="display:inline;">
+<img src="images/tankgame3.gif" width="50%" style="display:inline;">
 
 
 ## Art Designs
