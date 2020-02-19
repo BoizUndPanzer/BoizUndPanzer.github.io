@@ -1,14 +1,14 @@
-## Welcome to the Boiz Und Panzer Home Page!
+# Welcome to the Boiz Und Panzer Home Page!
 
 
-# Team
+## Team
 
 - Kainalu Kihe (ICS Major)
 - Jahstyn Aweau (ACM Major)
 - Ross Kurizaki (ICS Major)
 - John Martinez (ACM Major)
 
-# Game Storyboarding
+## Game Storyboarding
 
 - 2 - 4 player game where players control a tank and the objective is to be the last tank alive
 - Tank shells richochet off the walls
@@ -17,10 +17,10 @@
 - Maybe use different tank types with different perks
 - Different map styles and terrain to offer varying gameplay
 
-# Current Demo of the Game 2/18/20
+## Current Demo of the Game 2/18/20
 
 [Gif of the game](https://gfycat.com/elatedsnarlingatlanticridleyturtle)
 
 
-# Art Designs
+## Art Designs
 
