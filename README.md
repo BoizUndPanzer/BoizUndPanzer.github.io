@@ -3,10 +3,10 @@
 
 # Team
 
-- Kainalu Kihe
-- Jahstyn Aweau
-- Ross Kurizaki
-- John Martinez
+- Kainalu Kihe (ICS Major)
+- Jahstyn Aweau (ACM Major)
+- Ross Kurizaki (ICS Major)
+- John Martinez (ACM Major)
 
 # Game Storyboarding
 
@@ -17,6 +17,10 @@
 - Maybe use different tank types with different perks
 - Different map styles and terrain to offer varying gameplay
 
-# Current Demo of the Game
+# Current Demo of the Game 2/18/20
 
 [Gif of the game](https://gfycat.com/elatedsnarlingatlanticridleyturtle)
+
+
+# Art Designs
+
