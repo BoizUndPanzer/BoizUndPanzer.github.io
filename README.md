@@ -22,6 +22,7 @@
 ## Current Demo of the Game 2/18/20
 
 [Gif of the game](https://gfycat.com/elatedsnarlingatlanticridleyturtle)
+![](images/tankgame3.gif)
 
 
 ## Art Designs
