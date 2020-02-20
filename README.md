@@ -25,4 +25,4 @@
 
 
 ## Art Designs
-
+<img src="images/tank_art.png" width="50%" style="display:inline;">
