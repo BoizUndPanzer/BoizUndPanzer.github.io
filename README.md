@@ -3,10 +3,10 @@
 
 ## Team
 
-- Kainalu Kihe (ICS Major)
-- Jahstyn Aweau (ACM Major)
-- Ross Kurizaki (ICS Major)
-- John Martinez (ACM Major)
+- Kainalu Kihe (ICS Major)  dkihe@hawaii.edu
+- Jahstyn Aweau (ACM Major) jahstyna@hawaii.edu
+- Ross Kurizaki (ICS Major) rosskk@hawaii.edu
+- John Martinez (ACM Major) john76@hawaii.edu,
 
 ## Game Storyboarding
 
