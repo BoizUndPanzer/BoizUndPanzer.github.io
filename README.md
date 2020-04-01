@@ -41,7 +41,7 @@
 ## Demo of the Game 3/30/2020
 - Added Win screen and way to reset game
 
-<img src="images/win_state.gif" width="50%">
+<img src="images/win_state.gif" width="25%">
 
 - Also Added Bullet bouncing
 
@@ -73,22 +73,23 @@
 <img src="images/tank_back.png" width="50%" style="display:inline;">
 
 ## New Textures for the Map
-<img src="images/grass.png" width="50%" style="display:inline;">
-<img src="images/wall.png" width="50%" style="display:inline;">
+<img src="images/grass.png" width="33%" style="display:inline;">
+
+<img src="images/wall.png" width="33%" style="display:inline;">
 
 ## Bullet Design
-<img src="images/bullet_design.jpg" width="50%" style="display:inline;">
+<img src="images/bullet_design.jpg" width="25%" style="display:inline;">
 
 ## New Mockup for Map Layout
-<img src="images/map_design.png" width="50%" style="display:inline;">
+<img src="images/map_design.png" width="33%" style="display:inline;">
 
 ## Second Tank Designs
 <img src="images/second_tank_top.PNG" width="50%" style="display:inline;">
 <img src="images/second_tank_bottom.PNG" width="50%" style="display:inline;">
 
 ## First Ground and Wall Textures
-<img src="images/ground_texture.png" width="50%" style="display:inline;">
-<img src="images/wall_texture.png" width="50%" style="display:inline;">
+<img src="images/ground_texture.png" width="35%" style="display:inline;">
+<img src="images/wall_texture.png" width="35%" style="display:inline;">
 
 ## First Tank Design
 <img src="images/tank_art.png" width="50%" style="display:inline;">
