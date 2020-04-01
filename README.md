@@ -29,6 +29,18 @@
 
 
 
+## Demo of the Game 3/30/2020
+- Added Win screen and way to reset game
+<img src="images/win_state.gif" width="50%" style="display:inline;">
+
+- Also Added Bullet bouncing
+<img src="images/tankgame_bounce.gif" width="50%" style="display:inline;">
+
+## Demo of the Game 3/25/2020
+- Better rotation for aiming so it doesn't snap to where you look and you have to rotate the gun
+- New map implemented
+<img src="images/new_setup.gif" width="50%" style="display:inline;">
+
 ## Demo of the game 3/07/2020
 - Multiplayer implemented
 <img src="images/multiplayer_setup.gif" width="50%" style="display:inline;">
@@ -40,9 +52,30 @@
 
 ## Art Designs
 
+### Possible New Map or Next Stage
+<img src="images/next_stage.png" width="50%" style="display:inline;">
+
+### Third Tank Design
+<img src="images/tank_front.png" width="50%" style="display:inline;">
+<img src="images/tank_back.png" width="50%" style="display:inline;">
+
+### New Textures for the Map
+<img src="images/grass.png" width="50%" style="display:inline;">
+<img src="images/wall.png" width="50%" style="display:inline;">
+
+### Bullet Design
+<img src="images/bullet_design.jpg" width="50%" style="display:inline;">
+
+### New Mockup for Map Layout
+<img src="images/map_design.png" width="50%" style="display:inline;">
+
+### Second Tank Designs
+<img src="images/second_tank_top.PNG" width="50%" style="display:inline;">
+<img src="images/second_tank_bottom.PNG" width="50%" style="display:inline;">
+
 ### First Ground and Wall Textures
 <img src="images/ground_texture.png" width="50%" style="display:inline;">
-<img src="wall_texture.png" width="50%" style="display:inline;">
+<img src="images/wall_texture.png" width="50%" style="display:inline;">
 
 ### First Tank Design
 <img src="images/tank_art.png" width="50%" style="display:inline;">
