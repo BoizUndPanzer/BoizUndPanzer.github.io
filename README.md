@@ -1,5 +1,11 @@
 # Welcome to the Boiz Und Panzer Home Page!
 
+# Table of Contents
+* [The Team](##team)
+* [Game Storyboarding](##game-storyboarding)
+* [Current Progress](##current-progress)
+* [Game Demos](#demos)
+* [Art Designs](#art-designs)
 
 ## Team
 
@@ -19,7 +25,7 @@
 - Different map styles and terrain to offer varying gameplay
 - Tanks will be different colors or have unique characters on top to distinguish between players
 
-## Current Game Progress
+## Current Progress
 - 4 player tank local multiplayer where objective is still to be the last alive
 - New map with grass for ground texture and bricks for the walls and additional obstacles
 - Bullets reflect on walls twice before disappearing or get destroyed on contact with other bullets
@@ -27,7 +33,10 @@
 - New bullet models soon to be added
 - Win screen with backtick to reset or a on controller
 
+# Demos
 
+## 3/31/2020 Game Layout
+<img src="images/3_31_demo.JPG" width="50%" style="display:inline;">
 
 ## Demo of the Game 3/30/2020
 - Added Win screen and way to reset game
@@ -50,32 +59,32 @@
 <img src="images/tankgame3.gif" width="50%" style="display:inline;">
 
 
-## Art Designs
+# Art Designs
 
-### Possible New Map or Next Stage
+## Possible New Map or Next Stage
 <img src="images/next_stage.png" width="50%" style="display:inline;">
 
-### Third Tank Design
+## Third Tank Design
 <img src="images/tank_front.png" width="50%" style="display:inline;">
 <img src="images/tank_back.png" width="50%" style="display:inline;">
 
-### New Textures for the Map
+## New Textures for the Map
 <img src="images/grass.png" width="50%" style="display:inline;">
 <img src="images/wall.png" width="50%" style="display:inline;">
 
-### Bullet Design
+## Bullet Design
 <img src="images/bullet_design.jpg" width="50%" style="display:inline;">
 
-### New Mockup for Map Layout
+## New Mockup for Map Layout
 <img src="images/map_design.png" width="50%" style="display:inline;">
 
-### Second Tank Designs
+## Second Tank Designs
 <img src="images/second_tank_top.PNG" width="50%" style="display:inline;">
 <img src="images/second_tank_bottom.PNG" width="50%" style="display:inline;">
 
-### First Ground and Wall Textures
+## First Ground and Wall Textures
 <img src="images/ground_texture.png" width="50%" style="display:inline;">
 <img src="images/wall_texture.png" width="50%" style="display:inline;">
 
-### First Tank Design
+## First Tank Design
 <img src="images/tank_art.png" width="50%" style="display:inline;">
