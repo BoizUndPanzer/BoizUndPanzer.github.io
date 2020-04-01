@@ -19,10 +19,30 @@
 - Different map styles and terrain to offer varying gameplay
 - Tanks will be different colors or have unique characters on top to distinguish between players
 
+## Current Game Progress
+- 4 player tank local multiplayer where objective is still to be the last alive
+- New map with grass for ground texture and bricks for the walls and additional obstacles
+- Bullets reflect on walls twice before disappearing or get destroyed on contact with other bullets
+- New tank models
+- New bullet models soon to be added
+- Win screen with backtick to reset or a on controller
+
+
+
+## Demo of the game 3/07/2020
+- Multiplayer implemented
+<img src="images/multiplayer_setup.gif" width="50%" style="display:inline;">
+
 ## Current Demo of the Game 2/18/20
 <img src="images/tankgame2.gif" width="50%" style="display:inline;">
 <img src="images/tankgame3.gif" width="50%" style="display:inline;">
 
 
 ## Art Designs
+
+### First Ground and Wall Textures
+<img src="images/ground_texture.png" width="50%" style="display:inline;">
+<img src="wall_texture.png" width="50%" style="display:inline;">
+
+### First Tank Design
 <img src="images/tank_art.png" width="50%" style="display:inline;">
