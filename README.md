@@ -51,7 +51,7 @@
 - Better rotation for aiming so it doesn't snap to where you look and you have to rotate the gun
 - New map implemented
 
-<img src="images/new_setup.gif" width="70%">
+<img src="images/new_setup.gif" width="90%">
 
 ## Demo of the game 3/07/2020
 - Multiplayer implemented
