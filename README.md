@@ -40,19 +40,19 @@
 
 ## Demo of the Game 3/30/2020
 - Added Win screen and way to reset game
-<img src="images/win_state.gif" width="50%" style="display:inline;">
+<img src="images/win_state.gif" width="50%">
 
 - Also Added Bullet bouncing
-<img src="images/tankgame_bounce.gif" width="50%" style="display:inline;">
+<img src="images/tankgame_bounce.gif" width="50%">
 
 ## Demo of the Game 3/25/2020
 - Better rotation for aiming so it doesn't snap to where you look and you have to rotate the gun
 - New map implemented
-<img src="images/new_setup.gif" width="50%" style="display:inline;">
+<img src="images/new_setup.gif" width="50%">
 
 ## Demo of the game 3/07/2020
 - Multiplayer implemented
-<img src="images/multiplayer_setup.gif" width="50%" style="display:inline;">
+<img src="images/multiplayer_setup.gif" width="50%">
 
 ## Current Demo of the Game 2/18/20
 <img src="images/tankgame2.gif" width="50%" style="display:inline;">
