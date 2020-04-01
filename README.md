@@ -36,22 +36,22 @@
 # Demos
 
 ## 3/31/2020 Game Layout
-<img src="images/3_31_demo.JPG" width="50%" style="display:inline;">
+<img src="images/3_31_demo.JPG" width="70%" style="display:inline;">
 
 ## Demo of the Game 3/30/2020
 - Added Win screen and way to reset game
 
-<img src="images/win_state.gif" width="25%">
+<img src="images/win_state.gif" width="70%">
 
 - Also Added Bullet bouncing
 
-<img src="images/tankgame_bounce.gif" width="50%">
+<img src="images/tankgame_bounce.gif" width="70%">
 
 ## Demo of the Game 3/25/2020
 - Better rotation for aiming so it doesn't snap to where you look and you have to rotate the gun
 - New map implemented
 
-<img src="images/new_setup.gif" width="50%">
+<img src="images/new_setup.gif" width="70%">
 
 ## Demo of the game 3/07/2020
 - Multiplayer implemented
@@ -78,10 +78,10 @@
 <img src="images/wall.png" width="33%" style="display:inline;">
 
 ## Bullet Design
-<img src="images/bullet_design.jpg" width="25%" style="display:inline;">
+<img src="images/bullet_design.jpg" width="35%" style="display:inline;">
 
 ## New Mockup for Map Layout
-<img src="images/map_design.png" width="33%" style="display:inline;">
+<img src="images/map_design.png" width="50%" style="display:inline;">
 
 ## Second Tank Designs
 <img src="images/second_tank_top.PNG" width="50%" style="display:inline;">
