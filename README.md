@@ -2,19 +2,19 @@
 
 # Table of Contents
 * [The Team](##team)
-* [Game Storyboarding](##game-storyboarding)
-* [Current Progress](##current-progress)
+* [Game Storyboarding](#game-storyboarding)
+* [Current Progress](#current-progress)
 * [Game Demos](#demos)
 * [Art Designs](#art-designs)
 
-## Team
+# Team
 
 - Kainalu Kihe (ICS Major)  dkihe@hawaii.edu
 - Jahstyn Aweau (ACM Major) jahstyna@hawaii.edu
 - Ross Kurizaki (ICS Major) rosskk@hawaii.edu
 - John Martinez (ACM Major) john76@hawaii.edu,
 
-## Game Storyboarding
+# Game Storyboarding
 
 - 2 - 4 player game where players control a tank and the objective is to be the last tank alive
 - Top down view at an angle 
@@ -25,7 +25,7 @@
 - Different map styles and terrain to offer varying gameplay
 - Tanks will be different colors or have unique characters on top to distinguish between players
 
-## Current Progress
+# Current Progress
 - 4 player tank local multiplayer where objective is still to be the last alive
 - New map with grass for ground texture and bricks for the walls and additional obstacles
 - Bullets reflect on walls twice before disappearing or get destroyed on contact with other bullets
