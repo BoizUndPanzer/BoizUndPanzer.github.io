@@ -1,7 +1,7 @@
 # Welcome to the Boiz Und Panzer Home Page!
 
 # Table of Contents
-* [The Team](##team)
+* [The Team](#team)
 * [Game Storyboarding](#game-storyboarding)
 * [Current Progress](#current-progress)
 * [Game Demos](#demos)
