@@ -35,6 +35,9 @@
 
 # Demos
 
+## 4/7/2020 Game Layout
+<img src="images/4-7-2020_layout.png" width="70%" style="display:inline;">
+
 ## 3/31/2020 Game Layout
 <img src="images/3_31_demo.JPG" width="70%" style="display:inline;">
 
@@ -64,6 +67,26 @@
 
 
 # Art Designs
+
+## New Ground Textures
+<img src="images/road_2.png" width="50%" style="display:inline;">
+
+<img src="images/road_grass_2.png" width="50%" style="display:inline;">
+
+<img src="images/white_conk_create.png" width="50%" style="display:inline;">
+
+## Shipping Container Textures
+<img src="images/blue_shipping_container.png" width="50%" style="display:inline;">
+
+<img src="images/green_shipping_container.png" width="50%" style="display:inline;">
+
+<img src="images/red_shipping_container.png" width="50%" style="display:inline;">
+
+## New Map layout: Military Base and Shipping Container Area
+<img src="images/new_layout_plan.jpg" width="50%" style="display:inline;">
+
+## Possible Team Logo
+<img src="images/boys_und_panzer2.jpg" width="50%" style="display:inline;">
 
 ## Possible New Map or Next Stage
 <img src="images/next_stage.png" width="50%" style="display:inline;">
