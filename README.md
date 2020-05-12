@@ -2,7 +2,7 @@
 
 # Table of Contents
 * [The Team](#team)
-* [Game Storyboarding](#game-storyboarding)
+* [Game Planning](#game-planning)
 * [Current Progress](#current-progress)
 * [Game Demos](#demos)
 * [Art Designs](#art-designs)
@@ -12,9 +12,10 @@
 - Kainalu Kihe (ICS Major)  dkihe@hawaii.edu
 - Jahstyn Aweau (ACM Major) jahstyna@hawaii.edu
 - Ross Kurizaki (ICS Major) rosskk@hawaii.edu
-- John Martinez (ACM Major) john76@hawaii.edu,
+- John Martinez (ACM Major) john76@hawaii.edu
+- Kamren Wakakuwa kamrenw@hawaii.edu
 
-# Game Storyboarding
+# Game Planning
 
 - 2 - 4 player game where players control a tank and the objective is to be the last tank alive
 - Top down view at an angle 
@@ -26,6 +27,34 @@
 - Tanks will be different colors or have unique characters on top to distinguish between players
 
 # Current Progress
+
+## 5/11/2020
+- Added background music track
+- Adjusted menus
+- Updated map powerup positions
+
+## 5/9/2020
+- Added start screen
+- Created spreadshot powerup
+- Recolored tank explosion and fixed barrel hitbox
+
+## 5/8/2020
+- Changed aiming raycast to powerup
+- Created Shield Powerup
+
+## 4/28/2020
+- Fixed bullets going through walls issue
+- Adjusted aiming
+- Swapped sound effects
+- Made win text more readable
+
+## 4/20/2020
+- Added aiming raycast
+
+## 4/14/2020
+- Adjusted tank movement
+
+
 - 4 player tank local multiplayer where objective is still to be the last alive
 - New map with grass for ground texture and bricks for the walls and additional obstacles
 - Bullets reflect on walls twice before disappearing or get destroyed on contact with other bullets
