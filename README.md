@@ -3,6 +3,7 @@
 # Table of Contents
 * [The Team](#team)
 * [Game Planning](#game-planning)
+* [YouTube Demos](#youtube-demos)
 * [Current Progress](#current-progress)
 * [Game Demos](#demos)
 * [Art Designs](#art-designs)
@@ -41,7 +42,7 @@
 - Different map styles and terrain to offer varying gameplay
 - Tanks will be different colors or have unique characters on top to distinguish between players
 
-# Youtube Demos
+# YouTube Demos
 
 ## 5/11/2020
 - https://youtu.be/qiu-W_Dp1vk
