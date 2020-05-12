@@ -97,6 +97,9 @@
 
 # Art Designs
 
+## Finalized Logo
+<img src="images/boiz_und_panzer_title.png" width="50%" style="display:inline;">
+
 ## New Ground Textures
 <img src="images/road_2.png" width="50%" style="display:inline;">
 
