@@ -9,7 +9,9 @@
 
 # Team
 
-- Kainalu Kihe (ICS Major)  dkihe@hawaii.edu
+## Kainalu Kihe (ICS Major)  dkihe@hawaii.edu
+<img src="images/nalu.jpg" width="70%" style="display:inline;">
+
 - Jahstyn Aweau (ACM Major) jahstyna@hawaii.edu
 - Ross Kurizaki (ICS Major) rosskk@hawaii.edu
 - John Martinez (ACM Major) john76@hawaii.edu
@@ -54,7 +56,7 @@
 ## 4/14/2020
 - Adjusted tank movement
 
-
+## 3/31/2020
 - 4 player tank local multiplayer where objective is still to be the last alive
 - New map with grass for ground texture and bricks for the walls and additional obstacles
 - Bullets reflect on walls twice before disappearing or get destroyed on contact with other bullets
@@ -63,6 +65,28 @@
 - Win screen with backtick to reset or a on controller
 
 # Demos
+
+## 5/9/2020
+- Recolored Tank Deaths
+
+<img src="images/recolored_tank_death_5-9.gif" width="70%">
+
+- Added Spreadshot Powerup
+
+<img src="images/spreadshot_5-9.gif" width="70%">
+
+- Added Start Screen
+
+<img src="images/start_screen_5-9.gif" width="70%">
+
+## 5/8/2020
+<img src="images/powerups_5-8.gif" width="70%">
+
+## 4/28/2020
+<img src="images/fixed_shoot_through_walls_4-28.gif" width="70%">
+
+## 4/20/2020
+<img src="images/aiming_raycast_4-20.gif" width="70%">
 
 ## 4/14/2020
 <img src="images/changed_movement_4-14.gif" width="70%">
