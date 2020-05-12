@@ -64,6 +64,9 @@
 
 # Demos
 
+## 4/14/2020
+<img src="images/changed_movement_4-14.gif" width="70%">
+
 ## 4/7/2020 Game Layout
 <img src="images/4-7-2020_layout.png" width="70%" style="display:inline;">
 
