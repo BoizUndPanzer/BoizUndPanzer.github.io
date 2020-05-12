@@ -45,10 +45,10 @@
 # YouTube Demos
 
 ## 5/11/2020
-- https://youtu.be/qiu-W_Dp1vk
+- [Our Test Video](https://youtu.be/qiu-W_Dp1vk)
 
 ## 4/22/2020
-- https://www.youtube.com/watch?v=ztDiNeqtpdw&feature=youtu.be
+- [Class Demo](https://www.youtube.com/watch?v=ztDiNeqtpdw&feature=youtu.be)
 
 # Current Progress
 
