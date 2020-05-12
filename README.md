@@ -10,7 +10,7 @@
 # Team
 
 ## Kainalu Kihe (ICS Major)  dkihe@hawaii.edu
-<img src="images/nalu.jpg" width="70%" style="display:inline;">
+<img src="images/nalu.jpg" width="30%" style="display:inline;">
 
 - Jahstyn Aweau (ACM Major) jahstyna@hawaii.edu
 - Ross Kurizaki (ICS Major) rosskk@hawaii.edu
