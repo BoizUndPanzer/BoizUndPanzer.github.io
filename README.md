@@ -11,11 +11,24 @@
 
 ## Kainalu Kihe (ICS Major)  dkihe@hawaii.edu
 <img src="images/nalu.jpg" width="30%" style="display:inline;">
+- Lead Programmer
 
-- Jahstyn Aweau (ACM Major) jahstyna@hawaii.edu
-- Ross Kurizaki (ICS Major) rosskk@hawaii.edu
-- John Martinez (ACM Major) john76@hawaii.edu
-- Kamren Wakakuwa kamrenw@hawaii.edu
+## Jahstyn Aweau (ACM Major) jahstyna@hawaii.edu
+<img src="images/jah.jpg" width="30%" style="display:inline;">
+- Map Designer
+- Asset Modeler
+
+## Ross Kurizaki (ICS Major) rosskk@hawaii.edu
+<img src="images/Ross.jpg" width="30%" style="display:inline;">
+- Programmer
+- Project Planner
+
+## John Martinez (ACM Major) john76@hawaii.edu
+- Texture Designer
+- Artist
+
+## Kamren Wakakuwa kamrenw@hawaii.edu
+- Sound Engineer
 
 # Game Planning
 
