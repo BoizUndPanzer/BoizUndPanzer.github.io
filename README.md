@@ -41,6 +41,14 @@
 - Different map styles and terrain to offer varying gameplay
 - Tanks will be different colors or have unique characters on top to distinguish between players
 
+# Youtube Demos
+
+## 5/11/2020
+- https://youtu.be/qiu-W_Dp1vk
+
+## 4/22/2020
+- https://www.youtube.com/watch?v=ztDiNeqtpdw&feature=youtu.be
+
 # Current Progress
 
 ## 5/11/2020
